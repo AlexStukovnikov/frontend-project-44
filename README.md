@@ -7,5 +7,8 @@
 # Even-game:
 https://asciinema.org/a/XBxjL47jtiHjxVA6LExumzPJW
 
-#Calc-game:
+# Calc-game:
 https://asciinema.org/a/VgmoNjH9yieCQgTisGwY8Fh20
+
+# GCD-game:
+https://asciinema.org/a/cUV42wKAiUIl58ReoJoyvhvHl
