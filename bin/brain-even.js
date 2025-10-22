@@ -1,7 +1,4 @@
-import getUserName from '../src/cli.js'
-import startGame from '../src/logic-brain-even.js'
+import startGame from '../src/index.js'
+import * as evenGame from '../src/games/even.js'
 
-console.log('Welcome to the Brain Games!')
-const userName = getUserName()
-console.log(`Hello, ${userName}!`)
-startGame(userName)
+startGame(evenGame)
