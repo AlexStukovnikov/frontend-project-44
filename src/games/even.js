@@ -10,7 +10,7 @@ const getCorrectAnswer = number => (isEven(number) ? 'yes' : 'no')
 
 const generateRound = () => {
   const number = generateNumber()
-  const question = String(number)
+  const question = number
   const correctAnswer = getCorrectAnswer(number)
 
   return { question, correctAnswer }
